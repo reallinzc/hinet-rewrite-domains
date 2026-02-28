@@ -29,6 +29,8 @@ ibytedtos.com
 *.ibytedtos.com
 ipstatp.com
 *.ipstatp.com
+instagram.com
+*.instagram.com
 lf16-effectcdn.byteeffecttos-g.com
 *.lf16-effectcdn.byteeffecttos-g.com
 lf16-pkgcdn.pitaya-clientai.com
