@@ -1,0 +1,16 @@
+# Unified unlock rules - single source of truth
+# Used by: sniproxy-rs (whitelist) + AdGuard Home (DNS rewrite)
+#
+# Supported syntax:
+#   geosite:<category>  - expand via v2fly dlc.dat
+#   https://...         - fetch remote domain list
+#   domain:<pattern>    - exact domain/wildcard
+#   <bare domain>       - treated as domain:
+
+# --- Geosite categories ---
+geosite:openai
+geosite:tiktok
+geosite:netflix
+
+# --- hinet unlock domains ---
+https://raw.githubusercontent.com/reallinzc/hinet-rewrite-domains/main/domains.txt
