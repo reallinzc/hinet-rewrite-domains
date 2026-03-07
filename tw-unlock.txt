@@ -1,0 +1,68 @@
+# Taiwan region unlock domains
+# Source: blackmatrix7/ios_rule_script + manual additions
+# Updated: 2026-03-07
+
+# --- Bahamut ---
+*.bahamut.com.tw
+*.digicert.com
+*.gamer.com.tw
+*.gvt1.com
+*.hinet.net
+*.viblast.com
+bahamut.akamaized.net
+
+# --- KKTV ---
+*.kktv.com.tw
+*.kktv.me
+kktv-theater.kk.stream
+theater-kktv.cdn.hinet.net
+
+# --- LiTV ---
+*.litv.tv
+litvfreemobile-hichannel.cdn.hinet.net
+
+# --- LineTV ---
+*.chocotv.com.tw
+*.d3c7rimkq79yfu.cloudfront.net
+*.line-cdn.net
+*.line-scdn.net
+*.linetv.tw
+d17lx9ucc6k9fc.cloudfront.net
+d3pgb93pk7bvxj.cloudfront.net
+d3vm9lcxb6xcm4.cloudfront.net
+
+# --- TaiWanGood ---
+*.skyking.com.tw
+hamifans.emome.net
+
+# --- VidolTV ---
+*.vidol.tv
+
+# --- KKBOX ---
+*.kfs.io
+*.kk.stream
+*.kkbox-prime.com
+*.kkbox.com
+*.kkbox.com.tw
+*.kktix.com
+*.kktv.com.tw
+*.kktv.me
+*.theater-kktv.cdn.hinet.net
+
+# --- Kantv ---
+*.imkan.tv
+
+# --- HamiVideo ---
+*.hamivideo.hinet.net
+
+# --- MyVideo ---
+*.myvideo.net.tw
+
+# --- 4GTV ---
+*.4gtv.tv
+
+# --- BiliBili TW ---
+*.bilibili.com
+*.bilivideo.com
+*.biliapi.net
+*.hdslb.com
