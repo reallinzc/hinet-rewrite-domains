@@ -2,37 +2,6 @@
 # Source: blackmatrix7/ios_rule_script + manual additions
 # Updated: 2026-03-07
 
-# --- TikTok ---
-*.bytedapm.com
-*.bytegecko-i18n.com
-*.byteintlapi.com
-*.byteoversea.com
-*.capcut.com
-*.ibytedtos.com
-*.ibyteimg.com
-*.ipstatp.com
-*.isnssdk.com
-*.marscode.com
-*.muscdn.com
-*.musical.ly
-*.sgpstatp.com
-*.snssdk.com
-*.tik-tokapi.com
-*.tiktok.com
-*.tiktokcdn-us.com
-*.tiktokcdn.com
-*.tiktokd.net
-*.tiktokd.org
-*.tiktokmusic.app
-*.tiktokv.com
-*.tiktokv.us
-*.trae.ai
-*.ttwebview.com
-lf16-effectcdn.byteeffecttos-g.com
-lf16-pkgcdn.pitaya-clientai.com
-p16-tiktokcdn-com.akamaized.net
-trae-api-sg.mchost.guru
-
 # --- ViuTV ---
 *.cognito-identity.us-east-1.amazonaws.com
 *.d1k2us671qcoau.cloudfront.net
